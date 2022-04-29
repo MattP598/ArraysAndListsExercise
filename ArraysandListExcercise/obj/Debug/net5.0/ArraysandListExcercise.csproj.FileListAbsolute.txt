@@ -1,0 +1,16 @@
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\bin\Debug\net5.0\ArraysandListExcercise.exe
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\bin\Debug\net5.0\ArraysandListExcercise.deps.json
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\bin\Debug\net5.0\ArraysandListExcercise.runtimeconfig.json
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\bin\Debug\net5.0\ArraysandListExcercise.runtimeconfig.dev.json
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\bin\Debug\net5.0\ArraysandListExcercise.dll
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\bin\Debug\net5.0\ArraysandListExcercise.pdb
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.csproj.AssemblyReference.cache
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.AssemblyInfoInputs.cache
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.AssemblyInfo.cs
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.csproj.CoreCompileInputs.cache
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.dll
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\refint\ArraysandListExcercise.dll
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.pdb
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ArraysandListExcercise.genruntimeconfig.cache
+C:\repos\ArraysandListExcercise\ArraysandListExcercise\obj\Debug\net5.0\ref\ArraysandListExcercise.dll
